@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshikagupta18
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ...Andriod development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...anshikagupta18400@gmail.com
